@@ -1,0 +1,40 @@
+#searchbar-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#wrapper, #main {
+  width: 100%;
+  height: 100%;
+}
+
+#map-container {
+  position: absolute;
+  width: 100%;
+  height: calc(100% - 74px);
+  height: -webkit-calc(100% - 74px);
+  height: -moz-calc(100% - 74px);
+}
+
+.icon {
+  width: 50px;
+  height: 50px
+}
+
+.icon-container {
+  width: 65px;
+  float: left;
+}
+
+.text-container {
+  display: block;
+  vertical-align: middle;
+  width: 150px;
+  float: left;
+}
+
+.text-container span {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5px;
+}
