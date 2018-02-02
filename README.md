@@ -25,7 +25,7 @@ More information and working demo can be found here:
 Thanks
 ------
 
-*FDD Concept: Chat/Messaging Application* © 2017, Fernan de Dios. Released under the [MIT License].<br>
+*FDD Concept: Google Maps Locations* © 2017, Fernan de Dios. Released under the [MIT License].<br>
 
 > [fernandedios.com](http://fernandedios.com) &nbsp;&middot;&nbsp;
 > GitHub [@fernandedios](https://github.com/fernandedios) &nbsp;&middot;&nbsp;
